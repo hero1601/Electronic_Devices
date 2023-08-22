@@ -9,6 +9,8 @@ Created a database with the name of electronic_devices and added 3 tables
     * product
     * product_Variant
 
+Added csv file containing all the data
+
 ## Backend
 
 Written a spring boot application with the api's as follows
